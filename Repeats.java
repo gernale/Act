@@ -21,7 +21,7 @@ public class Repeats {
 
      public static void main(String[] args)
      {
-         String str = "hello worddddddddddddddd";
+         String str = "aljay";
          printDups(str);
      }
 }

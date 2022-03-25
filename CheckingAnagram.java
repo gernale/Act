@@ -35,7 +35,7 @@ public class CheckingAnagram {
     public static void main(String args[])
     {
         char str1[] = ("happy").toCharArray();
-        char str2[] = ("ayhpp").toCharArray();
+        char str2[] = ("yppah").toCharArray();
  
         if (areAnagram(str1, str2))
             System.out.println("The two strings are "

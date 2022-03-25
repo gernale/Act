@@ -26,7 +26,7 @@ public class nonRepeated {
      
         public static void main(String[] args)
         {
-            String str = "haappyh";
+            String str = "haappy";
             int index = firstNonRepeating(str);
      
             System.out.println(

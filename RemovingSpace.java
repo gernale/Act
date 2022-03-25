@@ -14,7 +14,7 @@ public class RemovingSpace {
 
     public static void main(String[] args)
     {
-        char str[] = "H a              pp y ".toCharArray();
+        char str[] = "h a p p y".toCharArray();
         int i = removeSpaces(str);
         System.out.println(String.valueOf(str).subSequence(0, i));
     }

@@ -23,7 +23,7 @@ public class CheckingDigits {
     public static void main(String args[])
     {
         
-        String str = "222";
+        String str = "123456789";
   
         System.out.println(onlyDigits(str));
     }
